@@ -1,10 +1,9 @@
 ### Hi there 👋
 
  
-- 🔭 I’m currently working on my project [MediEcomReact](https://github.com/PMohit/MediEcomReact)
+
 - 🌱 I’m currently learning Typescript & Angular 
 - 👯 I’m looking to collaborate on js domains
-- 🤔 I’m looking for intership in software enginnering 
 - 💬 Goals : Contribute to community
 
 **Languages and Tools:**  
